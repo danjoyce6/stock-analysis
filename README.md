@@ -1,4 +1,4 @@
-# VBA Challenge ---
+# VBA ---
 ## Project Overview ---
 The purpose of this analysis was to refactor the working code from the Module 2 solution code of Stocks Analysis to only loop through the data once instead of twice and analyze the performance of the stocks in the Excel Workbook with data on green energy stocks from the years 2017 and 2018.  The Excel Workbook contained data on ceratin green energy stocks that Steve was analyzing for his parents to measure the performance of the stock that they invested in.  The initial investment that Steves parents made was in the company stock DQ.  This companies stock had performed poorly.  The analysis that was run performed calculations to produce data on the 'Total Daily Volume' and 'Return' on investment based on the starting and ending price of the stocks.   A starter code was supplied and code was added to refactor the code to only loop one time instead of two times.  One of the goals of the project was to determine whether refactoring code made in improvement in the run time of the VBA script.  Although DQ performed poorly in 2018, it performed well in 2017. ---
 ## Results ---
